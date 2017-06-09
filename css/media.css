@@ -3,4 +3,9 @@
 	.koala-koala-ya{
 		display: none;
 	}
+
+	.icon-size, .icon-text{
+		padding-bottom: 5%;
+	}
+
 }
