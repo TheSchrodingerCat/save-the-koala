@@ -133,3 +133,42 @@ body{
 .icon-text{
 	font-size: 11px;
 }
+
+/*-----------------------------------------seccion 6 -------------------------------------*/
+.sixthSection{
+	background: #a89f68;
+	padding: 5% 0;
+}
+
+.we-can-help-two{
+	color: #41521F;
+}
+
+.number{
+	font-size: 50px;
+	color: white;
+}
+
+.sign{
+	top: -30px;
+	color: white;
+}
+
+sub, .line{
+	color: white;
+}
+
+.line{
+	border: 1px solid white;
+	margin-bottom: 3%;
+}
+
+.btn-donate{
+	color: white;
+	background: #41521F;
+	font-weight: bold;
+}
+
+.help-two{
+	padding: 5% 2%;
+}
