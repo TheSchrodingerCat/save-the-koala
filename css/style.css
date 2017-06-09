@@ -42,3 +42,39 @@ army green: 41521F;
 .negritas{
 	font-weight: bold;
 }
+
+/*--------------------------------- seccion 2 ---------------------------------*/
+.mi-cont-uno{
+	padding: 4% 5% 10% 5%;
+}
+
+.mi-cont-dos{
+	padding-top: 10%;
+}
+
+/*--------------------------------- seccion 3 -------------------------------------*/
+
+.thirdSection{
+	background: #a89f68;
+}
+
+.blanco{
+	color: white;
+}
+
+.save-koalas{
+	color: #41521F;
+}
+
+.btn-read-more{
+	background-color: #41521F;
+}
+
+.row.third-section{
+	padding: 7%;
+}
+
+.white-border{
+	padding: 3%;
+	background: white;
+}
